@@ -1,5 +1,5 @@
 // Question 1-Card
-document.querySelector(".card-header").style.color = 'Red'
+document.querySelector(".card-header").style.color = 'red'
 
 // Question 2-Array
 let persons = ["Toba", "Mitems", "Shytemi", "Emmanuel", "Jhenna", "Demand", "Korex", "Obums"]
@@ -29,10 +29,10 @@ console.log("Being" + " " + adjective + " " + "is not that cool");
 console.log('My parents was angry because I and' + " " + noun + " " + verb + " " + 'all day');
 
 // Question 5-division rem
-// let X= prompt("Enter the first number");
-// let Y = prompt("Enter the second number");
+let X= prompt("Enter the first number");
+let Y = prompt("Enter the second number");
 
-// console.log(X % Y)
+console.log(X % Y)
 
 // Question 6-quadratic equ
 quad(6,3,2)
